@@ -1,1 +1,31 @@
-# Index.md
+# Indice dei contenuti
+  - Home: index.md
+  - Specifiche Tecniche:
+      - ST RT v11.2: specifiche-tecniche-rt.md
+      - Variazioni e Aggiornamenti: variazioni-specifiche.md
+  - Allegati Tecnici:
+      - Code List v12: code-list.md
+      - Tipi Dati per i Corrispettivi v7.1: tipi-dati-corrispettivi.md
+      - Tipi Dati API Dispositivi e Gestionali: tipi-dati-api.md
+      - Layout Documento Commerciale v5: layout-documento-commerciale.md
+      - Tabella 9 - Codici Interventi RT: codici-interventi-rt.md
+      - Tracciato DGFE e Memoria Fiscale v3.2: tracciato-dgfe-memoria.md
+      - Codici Segnalazione Server RT: codici-segnalazione-server-rt.md
+  - API REST:
+      - API REST Dispositivi: api-rest-dispositivi.md
+      - API REST Gestionali: api-rest-gestionali.md
+  - Fatture Elettroniche da RT:
+      - Specifiche Invio Fatture da RT v1.1: fatture-da-rt.md
+  - Chiarimenti e Precisazioni:
+      - Integrazione POS RT (Novembre 2025): precisazioni-pos-rt.md
+      - Chiarimenti RT (Aprile 2019): precisazioni-rt-2019.md
+      - Chiarimenti Server RT: precisazioni-server-rt.md
+      - Lotteria degli Scontrini: precisazioni-lotteria.md
+      - Riduzione Consumo Carta: precisazioni-carta.md
+      - Utilizzo RT, Server RT e MF: precisazioni-utilizzo-rt.md
+      - Fabbricazione Modelli RT: precisazioni-fabbricazione-rt.md
+      - Ulteriori Precisazioni Fabbricazione: precisazioni-fabbricazione-rt-2.md
+      - Non Riscosso e Ticket Restaurant: precisazioni-non-riscosso.md
+  - Schemi Tecnici:
+      - Schemi XSD e YAML: schemi-tecnici.md
+      - Prescrizioni Tecniche per l'Approvazione: prescrizioni-approvazione.md
