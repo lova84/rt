@@ -1,4 +1,4 @@
-# Indice dei contenuti
+## Indice dei contenuti
   - Home: index.md
   - Specifiche Tecniche:
       - ST RT v11.2: specifiche-tecniche-rt.md
